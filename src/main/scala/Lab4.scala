@@ -12,7 +12,7 @@ object Lab4 extends jsy.util.JsyApplication {
 
   /*
    * Fill in the appropriate portions above by replacing things delimited
-   * by '<'... '>'.
+   * by '<'lisa8891'>' and '<'brhe3511'>'
    * 
    * Replace 'YourIdentiKey' in the object name above with your IdentiKey.
    * 
